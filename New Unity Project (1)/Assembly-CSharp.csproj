@@ -53,8 +53,13 @@
     <UnityVersion>2020.3.24f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Assets\MoveForward.cs" />
     <Compile Include="Assets\Move.cs" />
+    <Compile Include="Assets\MoveForward.cs" />
+    <Compile Include="Assets\ObstacleGenerate.cs" />
+    <Compile Include="Assets\ScoreUp.cs" />
+    <Compile Include="Assets\GOBestScore.cs" />
+    <Compile Include="Assets\ScoreManager.cs" />
+    <Compile Include="Assets\GOScore.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
