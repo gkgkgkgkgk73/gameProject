@@ -21,13 +21,13 @@ public class Move : MonoBehaviour
         if (Input.GetKey(KeyCode.LeftArrow) == true)
         {
             animator.SetBool("run",true);
-            transform.Translate(Vector3.left*Time.deltaTime*3);
+            transform.Translate(Vector3.left*Time.deltaTime*4);
             transform.localScale = new Vector3(5, 5, 5);
         }
         else if (Input.GetKey(KeyCode.RightArrow) == true)
         {
             animator.SetBool("run", true);
-            transform.Translate(Vector3.right*Time.deltaTime*3);
+            transform.Translate(Vector3.right*Time.deltaTime*4);
             transform.localScale = new Vector3(-5, 5, 5);
         }
         else 

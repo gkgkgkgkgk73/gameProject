@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 101
+  controlID: 102
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -226,7 +226,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 106
+  controlID: 103
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -251,7 +251,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 107
+  controlID: 104
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -468,21 +468,21 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes
+    - Assets
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 48
   m_LastFolders:
-  - Assets/Scenes
+  - Assets
   m_LastFoldersGridSize: 48
   m_LastProjectPath: C:\Users\gkgkg\gameProject\New Unity Project (1)
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 56430000
-    m_LastClickedID: 17238
+    m_SelectedIDs: 48430000
+    m_LastClickedID: 17224
     m_ExpandedIDs: 000000004843000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -542,18 +542,18 @@ MonoBehaviour:
     m_ExpandedInstanceIDs: c62300000c5800001e5800001a5800002458000046580000b8620000e0760000a66200003284000062420000764300007443000036580000825800008e5800007a5800007e58000092580000965800008a580000865800008a4a0000e44200008259000000170000f642000000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: GameScene
-      m_OriginalName: GameScene
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 17254
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 5}
     m_CreateAssetUtility:
@@ -632,9 +632,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 68430000
+      m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 34c5e0fff0ece0ff02ede0ff02eee0ff7cefe0ff4cf3e0ffd6f3e0ff1c33e1fff8a9e1ff5083e3ff80eae5ff6ccce6ff80cce6ff9ccce6ffa6cde6ff5664e7ffb4f0e7ffdaf2e7ff4af4e7ff3a07e8ff7e07e8ff1808e8ffa608e8ffc408e8ffdc08e8fff408e8ff2e09e8ffbc09e8ffd609e8ffec09e8ff120ae8ff840ae8ff46fbffff06630000e4690000
+      m_ExpandedIDs: fedcffffeef0ffff46fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
